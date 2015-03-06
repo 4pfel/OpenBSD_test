@@ -1,0 +1,30 @@
+/Author.pm/1.1.1.2/Mon Mar 25 20:06:51 2013/-ko/TOPENBSD_5_6
+/Bundle.pm/1.1.1.2/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/CacheMgr.pm/1.1.1.2/Mon Mar 25 20:06:51 2013/-ko/TOPENBSD_5_6
+/Complete.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/Debug.pm/1.1.1.2/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/DeferredCode.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/Distribution.pm/1.1.1.3/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/Distroprefs.pm/1.1.1.2/Mon Mar 25 20:06:52 2013/-ko/TOPENBSD_5_6
+/Distrostatus.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/FTP.pm/1.1.1.2/Mon Mar 25 20:06:53 2013/-ko/TOPENBSD_5_6
+/FirstTime.pm/1.1.1.3/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/HandleConfig.pm/1.1.1.3/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/Index.pm/1.1.1.3/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/InfoObj.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/Kwalify.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/Mirrors.pm/1.1.1.3/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/Module.pm/1.1.1.2/Mon Mar 25 20:06:54 2013/-ko/TOPENBSD_5_6
+/Nox.pm/1.1.1.2/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/Prompt.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/Queue.pm/1.1.1.3/Mon Mar 24 14:58:49 2014/-ko/TOPENBSD_5_6
+/Shell.pm/1.1.1.2/Mon Mar 25 20:06:54 2013/-ko/TOPENBSD_5_6
+/Tarzip.pm/1.1.1.3/Mon Mar 24 14:58:50 2014/-ko/TOPENBSD_5_6
+/URL.pm/1.1.1.1/Fri Sep 24 14:49:06 2010/-ko/TOPENBSD_5_6
+/Version.pm/1.1.1.2/Mon Mar 25 20:06:54 2013/-ko/TOPENBSD_5_6
+D/API////
+D/Exception////
+D/FTP////
+D/HTTP////
+D/Kwalify////
+D/LWP////

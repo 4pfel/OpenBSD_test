@@ -1,0 +1,32 @@
+/Makefile/1.10/Tue Jul 22 17:05:45 2014//TOPENBSD_5_6
+/aux.c/1.26/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/cmd1.c/1.29/Wed Apr  6 11:36:26 2011//TOPENBSD_5_6
+/cmd2.c/1.21/Sun Mar 16 18:38:30 2014//TOPENBSD_5_6
+/cmd3.c/1.25/Wed Apr  6 11:36:26 2011//TOPENBSD_5_6
+/cmdtab.c/1.13/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/collect.c/1.34/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/def.h/1.13/Wed Jun 25 15:13:32 2003//TOPENBSD_5_6
+/edit.c/1.19/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/extern.h/1.27/Tue Jul 28 16:05:04 2009//TOPENBSD_5_6
+/fio.c/1.33/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/getname.c/1.8/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/glob.h/1.7/Tue Jun  3 02:56:11 2003//TOPENBSD_5_6
+/head.c/1.12/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/lex.c/1.37/Tue May 20 01:25:23 2014//TOPENBSD_5_6
+/list.c/1.19/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/mail.1/1.65/Thu Mar 27 13:08:24 2014//TOPENBSD_5_6
+/main.c/1.23/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/names.c/1.19/Mon Apr 29 00:28:23 2013//TOPENBSD_5_6
+/pathnames.h/1.7/Tue Jun  3 02:56:11 2003//TOPENBSD_5_6
+/popen.c/1.36/Mon Apr 29 00:28:23 2013//TOPENBSD_5_6
+/quit.c/1.20/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/rcv.h/1.3/Tue Jun  3 02:56:11 2003//TOPENBSD_5_6
+/send.c/1.23/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/strings.c/1.9/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/temp.c/1.15/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/tty.c/1.20/Fri Jan 17 18:42:30 2014//TOPENBSD_5_6
+/v7.local.c/1.15/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/vars.c/1.12/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+/version.c/1.7/Tue Oct 27 23:59:40 2009//TOPENBSD_5_6
+D/USD.doc////
+D/misc////

@@ -1,0 +1,27 @@
+/alphalinux.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/alphavms.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/decstation.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/delta68.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/dpx2.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/hp300bsd.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/i386bsd.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/i386linux.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/i386mach3.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/i386sco.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/i860mach3.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/m68kaux.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/m68klinux.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/m88kmach3.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/mipsbsd.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/mipsmach3.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/news-mips.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/news.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/pc532mach.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/riscos.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/symmetry.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/tahoe.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/vaxbsd.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/vaxlinux.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/vaxult.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+/vaxult2.h/1.1.1.1/Sun Apr 24 20:14:44 2011//TOPENBSD_5_6
+D

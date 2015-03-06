@@ -1,0 +1,7 @@
+/Makefile/1.1/Fri Apr 11 22:51:53 2014//TOPENBSD_5_6
+/cert.pem/1.1/Fri Apr 11 22:51:53 2014//TOPENBSD_5_6
+/generate_pkgconfig.sh/1.1/Fri Apr 11 22:51:53 2014//TOPENBSD_5_6
+/openssl.cnf/1.1/Fri Apr 11 22:51:53 2014//TOPENBSD_5_6
+/x509v3.cnf/1.1/Fri Apr 11 22:51:53 2014//TOPENBSD_5_6
+D/crypto////
+D/man////

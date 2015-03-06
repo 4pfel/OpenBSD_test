@@ -1,0 +1,20 @@
+/Makefile.inc/1.6/Tue Sep  4 03:10:42 2012//TOPENBSD_5_6
+/bcmp.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/bcopy.S/1.5/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/bzero.S/1.4/Fri May 25 20:32:29 2007//TOPENBSD_5_6
+/ffs.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/index.S/1.4/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/memchr.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/memcmp.S/1.4/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/memcpy.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/memmove.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/memset.S/1.4/Fri May 25 20:32:29 2007//TOPENBSD_5_6
+/rindex.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/strcat.S/1.8/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/strchr.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/strcmp.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/strcpy.S/1.8/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/strncmp.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/strrchr.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+/swab.S/1.3/Sun Aug  7 11:30:38 2005//TOPENBSD_5_6
+D

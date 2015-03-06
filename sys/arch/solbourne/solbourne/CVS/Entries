@@ -1,0 +1,10 @@
+/autoconf.c/1.12/Thu Nov 18 21:13:19 2010//TOPENBSD_5_6
+/clock.c/1.1/Tue Apr 19 21:30:18 2005//TOPENBSD_5_6
+/genassym.cf/1.2/Fri Apr 10 20:57:28 2009//TOPENBSD_5_6
+/locore.s/1.18/Thu Jun 13 15:34:04 2013//TOPENBSD_5_6
+/machdep.c/1.42/Mon Jul 21 17:25:47 2014//TOPENBSD_5_6
+/mem.c/1.2/Sat Sep 22 16:21:32 2007//TOPENBSD_5_6
+/pmap.c/1.6/Fri Jan 24 05:33:32 2014//TOPENBSD_5_6
+/prom_machdep.c/1.1/Tue Apr 19 21:30:18 2005//TOPENBSD_5_6
+/trap.c/1.21/Sun May 11 00:12:44 2014//TOPENBSD_5_6
+D

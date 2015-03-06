@@ -1,0 +1,19 @@
+/Makefile/1.2/Fri Jul 11 20:41:20 2014//TOPENBSD_5_6
+/args-EBUSY.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-ENOTCONN.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-EOPNOTSUPP.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-idle-EINVAL.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-max-EINVAL.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-EBADF.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-EBUSY.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-EINVAL.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-ENOTCONN.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-ENOTSOCK.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-EOPNOTSUPP.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-splice-EPROTONOSUPPORT.pl/1.2/Sat Jan  5 14:58:18 2013//TOPENBSD_5_6
+/args-udp-ENOTCONN.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/args-udp-EPROTONOSUPPORT.pl/1.2/Sat Jan  5 14:58:18 2013//TOPENBSD_5_6
+/args-unix-EPROTONOSUPPORT.pl/1.2/Sat Jan  5 14:58:18 2013//TOPENBSD_5_6
+/error.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+/remote.pl/1.1.1.1/Thu Jan  3 17:36:39 2013//TOPENBSD_5_6
+D

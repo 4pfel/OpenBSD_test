@@ -1,0 +1,12 @@
+/01_about_verbose.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+/04_use_external_lex_cache.t/1.1.1.1/Mon Mar 25 20:08:36 2013/-ko/TOPENBSD_5_6
+/09_compile.t/1.1.1.2/Mon Mar 24 14:59:00 2014/-ko/TOPENBSD_5_6
+/10_make.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+/20_get.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+/30_eval_dollar_at.t/1.1.1.1/Mon Mar 25 20:08:36 2013/-ko/TOPENBSD_5_6
+/40_super.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+/50_super.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+/60_super.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+/70_fail_auto.t/1.1.1.1/Mon Mar 25 20:08:36 2013/-ko/TOPENBSD_5_6
+/90_utf8.t/1.1.1.1/Fri Sep 24 14:48:48 2010/-ko/TOPENBSD_5_6
+D

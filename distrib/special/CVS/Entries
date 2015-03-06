@@ -1,0 +1,32 @@
+/Makefile/1.33/Thu Jul 24 19:21:48 2014//TOPENBSD_5_6
+/Makefile.inc/1.4/Sat Jan 11 03:35:57 2014//TOPENBSD_5_6
+D/arch////
+D/chroot////
+D/date////
+D/dd////
+D/dhclient////
+D/dmesg////
+D/ed////
+D/eeprom////
+D/ftp////
+D/grep////
+D/gzip////
+D/ifconfig////
+D/init////
+D/installboot////
+D/kbd////
+D/less////
+D/libstubs////
+D/md5////
+D/mkuboot////
+D/more////
+D/mt////
+D/newfs////
+D/pax////
+D/ping////
+D/restore////
+D/sed////
+D/signify////
+D/sysctl////
+D/umount////
+D/ztsscale////

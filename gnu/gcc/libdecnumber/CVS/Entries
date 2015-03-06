@@ -1,0 +1,23 @@
+/ChangeLog/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/Makefile.in/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/aclocal.m4/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/config.in/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/configure/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/configure.ac/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decContext.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decContext.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decDPD.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decLibrary.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decNumber.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decNumber.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decNumberLocal.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decRound.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decUtility.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decUtility.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decimal128.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decimal128.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decimal32.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decimal32.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decimal64.c/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/decimal64.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+D

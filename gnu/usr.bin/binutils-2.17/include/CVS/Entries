@@ -1,0 +1,47 @@
+/COPYING/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/ChangeLog/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/ChangeLog-9103/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/MAINTAINERS/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/alloca-conf.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/ansidecl.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/bfdlink.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/bin-bugs.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/bout.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/demangle.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/dis-asm.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/dyn-string.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/fibheap.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/filenames.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/floatformat.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/fnmatch.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/fopen-bin.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/fopen-same.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/fopen-vms.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/gdbm.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/getopt.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/hashtab.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/hp-symtab.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/ieee.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/libiberty.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/md5.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/oasys.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/objalloc.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/obstack.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/os9k.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/partition.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/progress.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/safe-ctype.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/sort.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/splay-tree.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/symcat.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/ternary.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/xregex.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/xregex2.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/xtensa-config.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/xtensa-isa-internal.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+/xtensa-isa.h/1.1.1.1/Sun Apr 24 20:14:48 2011//TOPENBSD_5_6
+D/aout////
+D/coff////
+D/elf////
+D/nlm////
+D/opcode////

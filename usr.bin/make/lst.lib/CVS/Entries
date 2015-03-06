@@ -1,0 +1,21 @@
+/Makefile.inc/1.1/Mon May 12 19:11:20 2014//TOPENBSD_5_6
+/lst.h/1.1/Mon May 12 19:11:20 2014//TOPENBSD_5_6
+/lstAddNew.c/1.8/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstAppend.c/1.20/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstConcat.c/1.20/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstConcatDestroy.c/1.11/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstDeQueue.c/1.19/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstDestroy.c/1.20/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstDupl.c/1.22/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstFindFrom.c/1.18/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstForEachFrom.c/1.19/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstInit.c/1.19/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstInsert.c/1.20/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstInt.h/1.15/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstMember.c/1.17/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstRemove.c/1.19/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstReplace.c/1.18/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lstRequeue.c/1.1/Sat Jan 12 13:05:57 2008//TOPENBSD_5_6
+/lstSucc.c/1.17/Mon Jul 19 19:46:44 2010//TOPENBSD_5_6
+/lst_t.h/1.1/Mon May 12 19:11:20 2014//TOPENBSD_5_6
+D

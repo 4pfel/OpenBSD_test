@@ -1,0 +1,15 @@
+/CodePage.t/1.1.1.1/Mon Mar 24 14:58:59 2014/-kb/TOPENBSD_5_6
+/CreateFile.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/ExpandEnvironmentStrings.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetCurrentThreadId.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetFileVersion.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetFolderPath.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetFullPathName.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetLongPathName.t/1.1.1.3/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetOSName.t/1.1.1.3/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetOSVersion.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GetShortPathName.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/GuidGen.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/Names.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+/Unicode.t/1.1.1.2/Mon Mar 24 14:58:59 2014/-ko/TOPENBSD_5_6
+D

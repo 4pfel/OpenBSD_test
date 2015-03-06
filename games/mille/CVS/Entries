@@ -1,0 +1,16 @@
+/Makefile/1.6/Thu May 23 18:43:00 2002//TOPENBSD_5_6
+/comp.c/1.7/Tue Oct 27 23:59:25 2009//TOPENBSD_5_6
+/end.c/1.6/Tue Oct 27 23:59:25 2009//TOPENBSD_5_6
+/extern.c/1.6/Tue Oct 27 23:59:25 2009//TOPENBSD_5_6
+/init.c/1.6/Tue Oct 27 23:59:25 2009//TOPENBSD_5_6
+/mille.6/1.12/Sat Sep  3 22:59:08 2011//TOPENBSD_5_6
+/mille.c/1.19/Thu Aug 29 20:22:15 2013//TOPENBSD_5_6
+/mille.h/1.10/Thu Aug 29 20:22:16 2013//TOPENBSD_5_6
+/misc.c/1.10/Tue Oct 27 23:59:25 2009//TOPENBSD_5_6
+/move.c/1.12/Thu Dec 10 23:53:05 2009//TOPENBSD_5_6
+/print.c/1.6/Tue Oct 27 23:59:25 2009//TOPENBSD_5_6
+/roll.c/1.6/Thu Aug 29 20:22:16 2013//TOPENBSD_5_6
+/save.c/1.8/Tue Oct 27 23:59:26 2009//TOPENBSD_5_6
+/types.c/1.7/Tue Oct 27 23:59:26 2009//TOPENBSD_5_6
+/varpush.c/1.7/Tue Oct 27 23:59:26 2009//TOPENBSD_5_6
+D

@@ -1,0 +1,16 @@
+/ChangeLog/1.6/Tue Nov  2 20:45:42 2004//TOPENBSD_5_6
+/adobe.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/aout64.h/1.4/Mon May 17 21:54:48 2004//TOPENBSD_5_6
+/ar.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/dynix3.h/1.3/Mon May 17 21:54:49 2004//TOPENBSD_5_6
+/encap.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/host.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/hp.h/1.1/Mon Jan  8 11:08:15 1996//TOPENBSD_5_6
+/hp300hpux.h/1.3/Mon May 17 21:54:49 2004//TOPENBSD_5_6
+/hppa.h/1.1/Mon Jan  8 11:08:16 1996//TOPENBSD_5_6
+/ranlib.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/reloc.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/stab.def/1.5/Fri May 21 18:05:22 2004//TOPENBSD_5_6
+/stab_gnu.h/1.3/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+/sun4.h/1.2/Mon May 13 17:07:40 2002//TOPENBSD_5_6
+D

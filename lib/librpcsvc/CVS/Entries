@@ -1,0 +1,18 @@
+/Makefile/1.10/Thu Aug  2 13:38:39 2012//TOPENBSD_5_6
+/bootparam_prot.x/1.9/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/klm_prot.x/1.6/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/mount.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/nfs_prot.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/nlm_prot.x/1.8/Sun Jun 15 04:41:39 2008//TOPENBSD_5_6
+/rex.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/rnusers.x/1.14/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/rquota.x/1.4/Tue Oct 27 23:59:30 2009//TOPENBSD_5_6
+/rstat.x/1.6/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/rusers.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/rwall.x/1.3/Tue Oct 27 23:59:30 2009//TOPENBSD_5_6
+/shlib_version/1.4/Tue Aug 13 05:52:15 2013//TOPENBSD_5_6
+/sm_inter.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/spray.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/yp.x/1.7/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+/yppasswd.x/1.5/Wed Sep  1 14:43:34 2010//TOPENBSD_5_6
+D

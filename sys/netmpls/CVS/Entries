@@ -1,0 +1,7 @@
+/mpls.h/1.28/Wed Apr 24 10:20:15 2013//TOPENBSD_5_6
+/mpls_input.c/1.38/Tue Jul 22 11:06:10 2014//TOPENBSD_5_6
+/mpls_output.c/1.17/Tue Jul 22 11:06:10 2014//TOPENBSD_5_6
+/mpls_proto.c/1.7/Wed Apr 24 10:20:15 2013//TOPENBSD_5_6
+/mpls_raw.c/1.9/Wed Mar 27 02:00:08 2013//TOPENBSD_5_6
+/mpls_shim.c/1.7/Wed Mar 27 02:00:08 2013//TOPENBSD_5_6
+D

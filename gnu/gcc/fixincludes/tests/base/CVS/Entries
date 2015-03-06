@@ -1,0 +1,59 @@
+/AvailabilityMacros.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/_G_config.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/assert.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/c_asm.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/com_err.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/ctrl-quotes-def-1.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/ctype.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/curses.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/errno.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/fixinc-test-limits.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/inttypes.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/io-quotes-def-1.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/locale.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/malloc.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/math.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/obstack.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/pthread.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/reg_types.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/regex.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/regexp.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/standards.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/stdint.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/stdio.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/stdio_tag.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/stdlib.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/string.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/strings.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/sym.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/testing.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/time.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/tinfo.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/unistd.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/wchar.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+/widec.h/1.1.1.1/Thu Oct 15 17:11:28 2009//TOPENBSD_5_6
+D/X11////
+D/Xm////
+D/ansi////
+D/arch////
+D/architecture////
+D/arpa////
+D/bits////
+D/bsd////
+D/fs////
+D/hsfs////
+D/ia64////
+D/internal////
+D/iso////
+D/mach-o////
+D/machine////
+D/netdnet////
+D/netinet////
+D/pixrect////
+D/rpc////
+D/rpcsvc////
+D/sparc////
+D/sundev////
+D/sunwindow////
+D/sys////
+D/types////

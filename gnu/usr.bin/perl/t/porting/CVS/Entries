@@ -1,0 +1,26 @@
+/FindExt.t/1.1.1.1/Mon Mar 25 20:09:37 2013/-ko/TOPENBSD_5_6
+/args_assert.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/authors.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/bincompat.t/1.1.1.1/Mon Mar 25 20:09:37 2013/-ko/TOPENBSD_5_6
+/checkcase.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/checkcfgvar.t/1.1.1.1/Mon Mar 25 20:09:37 2013/-ko/TOPENBSD_5_6
+/cmp_version.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/customized.dat/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/customized.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/diag.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/dual-life.t/1.3/Mon Mar 24 15:05:33 2014/-ko/TOPENBSD_5_6
+/exec-bit.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/extrefs.t/1.1.1.1/Mon Mar 24 14:59:11 2014/-kb/TOPENBSD_5_6
+/filenames.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/globvar.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/known_pod_issues.dat/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/maintainers.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/manifest.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/pending-author.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/perlfunc.t/1.1.1.1/Mon Mar 25 20:09:37 2013/-ko/TOPENBSD_5_6
+/pod_rules.t/1.1.1.1/Mon Mar 25 20:09:37 2013/-ko/TOPENBSD_5_6
+/podcheck.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/regen.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/test_bootstrap.t/1.1.1.3/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+/utils.t/1.1.1.2/Mon Mar 24 14:59:11 2014/-ko/TOPENBSD_5_6
+D

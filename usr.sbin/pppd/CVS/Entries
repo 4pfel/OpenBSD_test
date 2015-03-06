@@ -1,0 +1,30 @@
+/Makefile/1.18/Fri Mar 21 19:55:11 2014//TOPENBSD_5_6
+/auth.c/1.32/Sun Oct  2 06:25:53 2011//TOPENBSD_5_6
+/cbcp.c/1.8/Sat May  1 08:14:26 2010//TOPENBSD_5_6
+/cbcp.h/1.2/Fri Sep 13 18:19:45 2002//TOPENBSD_5_6
+/ccp.c/1.13/Tue Oct 27 23:59:53 2009//TOPENBSD_5_6
+/ccp.h/1.6/Fri Sep 13 00:12:10 2002//TOPENBSD_5_6
+/chap.c/1.17/Sat May 17 20:31:07 2014//TOPENBSD_5_6
+/chap.h/1.8/Fri Sep 13 00:12:10 2002//TOPENBSD_5_6
+/chap_ms.c/1.10/Tue Oct 27 23:59:53 2009//TOPENBSD_5_6
+/chap_ms.h/1.5/Fri Sep 13 01:53:12 2002//TOPENBSD_5_6
+/demand.c/1.10/Sat Apr 30 18:49:38 2011//TOPENBSD_5_6
+/fsm.c/1.8/Tue Oct 27 23:59:53 2009//TOPENBSD_5_6
+/fsm.h/1.5/Mon Jul  1 19:31:37 2002//TOPENBSD_5_6
+/ipcp.c/1.13/Mon May 10 02:00:50 2010//TOPENBSD_5_6
+/ipcp.h/1.7/Mon Jul  1 19:31:37 2002//TOPENBSD_5_6
+/lcp.c/1.10/Tue Oct 27 23:59:53 2009//TOPENBSD_5_6
+/lcp.h/1.7/Mon Jul  1 19:31:37 2002//TOPENBSD_5_6
+/magic.c/1.10/Sun Sep 29 16:24:22 2013//TOPENBSD_5_6
+/magic.h/1.4/Mon Jul  1 19:31:37 2002//TOPENBSD_5_6
+/main.c/1.49/Sat Apr 30 18:49:38 2011//TOPENBSD_5_6
+/options.c/1.26/Sun Oct 27 18:49:25 2013//TOPENBSD_5_6
+/patchlevel.h/1.7/Fri May  8 04:52:30 1998//TOPENBSD_5_6
+/pathnames.h/1.6/Mon Jun  4 14:59:45 2007//TOPENBSD_5_6
+/pppd.8/1.43/Mon Mar 17 17:07:45 2014//TOPENBSD_5_6
+/pppd.h/1.17/Sat Apr 30 18:49:38 2011//TOPENBSD_5_6
+/sys-bsd.c/1.26/Tue Oct 27 23:59:53 2009//TOPENBSD_5_6
+/upap.c/1.10/Tue Oct 27 23:59:53 2009//TOPENBSD_5_6
+/upap.h/1.6/Mon Jul  1 19:31:37 2002//TOPENBSD_5_6
+D/chat////
+D/pppstats////

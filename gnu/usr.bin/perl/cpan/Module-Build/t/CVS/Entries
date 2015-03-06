@@ -1,0 +1,42 @@
+/00-compile.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/PL_files.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/README.pod/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/add_property.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/basic.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/TOPENBSD_5_6
+/bundle_inc.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/compat.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/TOPENBSD_5_6
+/debug.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/destinations.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/ext.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/extend.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/files.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/help.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/install.t/1.1.1.2/Mon Mar 24 14:58:55 2014/-ko/TOPENBSD_5_6
+/install_extra_target.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/manifypods.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/metadata.t/1.6/Mon Mar 24 15:05:25 2014/-ko/TOPENBSD_5_6
+/metadata2.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/TOPENBSD_5_6
+/mymeta.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/TOPENBSD_5_6
+/new_from_context.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/notes.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/parents.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/perl_mb_opt.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/pod_parser.t/1.1.1.2/Mon Mar 24 14:58:55 2014/-ko/TOPENBSD_5_6
+/ppm.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/resume.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/runthrough.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/TOPENBSD_5_6
+/sample.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/script_dist.t/1.1.1.2/Mon Mar 25 20:07:55 2013/-ko/TOPENBSD_5_6
+/test_file_exts.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/test_type.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/test_types.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/tilde.t/1.1.1.2/Mon Mar 25 20:07:56 2013/-ko/TOPENBSD_5_6
+/use_tap_harness.t/1.1.1.2/Mon Mar 24 14:58:55 2014/-ko/TOPENBSD_5_6
+/versions.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/write_default_maniskip.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/xs.t/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+D/actions////
+D/bundled////
+D/compat////
+D/lib////
+D/properties////

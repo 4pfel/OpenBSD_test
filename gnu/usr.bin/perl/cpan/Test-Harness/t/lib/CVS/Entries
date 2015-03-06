@@ -1,0 +1,15 @@
+/EmptyParser.pm/1.1.1.2/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_6
+/MyCustom.pm/1.1.1.2/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_6
+/MyFileSourceHandler.pm/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_6
+/MyGrammar.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/MyIterator.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/MyPerlSourceHandler.pm/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_6
+/MyResult.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/MyResultFactory.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/MySourceHandler.pm/1.1.1.1/Mon Mar 25 20:08:16 2013/-ko/TOPENBSD_5_6
+/NOP.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+/NoFork.pm/1.1.1.1/Fri Sep 24 14:49:00 2010/-ko/TOPENBSD_5_6
+D/App////
+D/Dev////
+D/IO////
+D/TAP////

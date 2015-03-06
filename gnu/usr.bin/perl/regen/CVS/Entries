@@ -1,0 +1,19 @@
+/embed.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/embed_lib.pl/1.1.1.1/Mon Mar 25 20:09:38 2013/-ko/TOPENBSD_5_6
+/feature.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/keywords.pl/1.1.1.1/Mon Mar 25 20:09:38 2013/-ko/TOPENBSD_5_6
+/mg_vtable.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/mk_PL_charclass.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/mk_invlists.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/opcode.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/opcodes/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/overload.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/reentr.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/regcharclass.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/regcharclass_multi_char_folds.pl/1.1.1.1/Mon Mar 24 14:59:09 2014/-kb/TOPENBSD_5_6
+/regcomp.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+/regen_lib.pl/1.1.1.1/Mon Mar 25 20:09:38 2013/-ko/TOPENBSD_5_6
+/uconfig_h.pl/1.1.1.1/Mon Mar 25 20:09:38 2013/-ko/TOPENBSD_5_6
+/unicode_constants.pl/1.1.1.1/Mon Mar 24 14:59:09 2014/-kb/TOPENBSD_5_6
+/warnings.pl/1.1.1.2/Mon Mar 24 14:59:09 2014/-ko/TOPENBSD_5_6
+D

@@ -1,0 +1,47 @@
+/ArabicShaping.txt/1.1.1.9/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/BidiMirroring.txt/1.1.1.8/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/Blocks.txt/1.1.1.9/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/CJKRadicals.txt/1.1.1.3/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/CaseFolding.txt/1.1.1.9/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/CombiningClass.pl/1.6/Mon Mar 24 15:05:28 2014/-ko/TOPENBSD_5_6
+/CompositionExclusions.txt/1.1.1.8/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/DAge.txt/1.1.1.3/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/DCoreProperties.txt/1.1.1.3/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/DNormalizationProps.txt/1.1.1.3/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/Decomposition.pl/1.6/Mon Mar 24 15:05:28 2014/-ko/TOPENBSD_5_6
+/EastAsianWidth.txt/1.1.1.8/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/EmojiSources.txt/1.1.1.2/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/HangulSyllableType.txt/1.1.1.8/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/Heavy.pl/1.3/Mon Mar 24 15:05:28 2014//TOPENBSD_5_6
+/Index.txt/1.1.1.7/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/IndicMatraCategory.txt/1.1.1.2/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/IndicSyllabicCategory.txt/1.1.1.2/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/Jamo.txt/1.1.1.8/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/LineBreak.txt/1.1.1.9/Mon Mar 24 14:59:04 2014/-ko/TOPENBSD_5_6
+/Makefile/1.1.1.4/Mon Mar 25 20:09:03 2013/-ko/TOPENBSD_5_6
+/Name.pl/1.6/Mon Mar 24 15:05:28 2014/-ko/TOPENBSD_5_6
+/Name.pm/1.2/Mon Mar 24 15:05:28 2014//TOPENBSD_5_6
+/NameAliases.txt/1.1.1.4/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/NamedSequences.txt/1.1.1.6/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/NamedSqProv.txt/1.1.1.5/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/NamesList.txt/1.1.1.8/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/NormalizationCorrections.txt/1.1.1.7/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/PropList.txt/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/PropValueAliases.txt/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/PropertyAliases.txt/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/README.perl/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/ReadMe.txt/1.1.1.8/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/ScriptExtensions.txt/1.1.1.2/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/Scripts.txt/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/SpecialCasing.txt/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/StandardizedVariants.txt/1.1.1.7/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/TestProp.pl/1.3/Mon Mar 24 15:05:28 2014//TOPENBSD_5_6
+/UCD.pl/1.2/Mon Mar 24 15:05:28 2014//TOPENBSD_5_6
+/UnicodeData.txt/1.1.1.9/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/mktables/1.1.1.10/Mon Mar 24 14:59:05 2014/-ko/TOPENBSD_5_6
+/mktables.lst/1.6/Mon Mar 24 15:05:28 2014//TOPENBSD_5_6
+/version/1.1.1.9/Mon Mar 24 14:59:06 2014/-ko/TOPENBSD_5_6
+D/To////
+D/auxiliary////
+D/extracted////
+D/lib////

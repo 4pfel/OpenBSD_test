@@ -1,0 +1,12 @@
+/Base.pm/1.1.1.3/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+/Bzip2.pm/1.1.1.3/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+/Deflate.pm/1.1.1.3/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+/FAQ.pod/1.1.1.2/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+/Gzip.pm/1.1.1.3/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+/RawDeflate.pm/1.1.1.3/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+/Zip.pm/1.1.1.3/Mon Mar 24 14:58:53 2014/-ko/TOPENBSD_5_6
+D/Adapter////
+D/Base////
+D/Gzip////
+D/Zip////
+D/Zlib////

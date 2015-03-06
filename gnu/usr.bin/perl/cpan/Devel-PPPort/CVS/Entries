@@ -1,0 +1,19 @@
+/Changes/1.1.1.2/Mon Mar 25 20:06:58 2013/-ko/TOPENBSD_5_6
+/HACKERS/1.1.1.2/Mon Mar 25 20:06:58 2013/-ko/TOPENBSD_5_6
+/MANIFEST.SKIP/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_6
+/Makefile.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/PPPort.xs/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_6
+/PPPort_pm.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/PPPort_xs.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/README/1.1.1.2/Mon Mar 25 20:06:59 2013/-ko/TOPENBSD_5_6
+/TODO/1.1.1.1/Fri Sep 24 14:49:01 2010/-ko/TOPENBSD_5_6
+/apicheck_c.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/mktests.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/module2.c/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/module3.c/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/ppport_h.PL/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/soak/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+/typemap/1.3/Mon Mar 25 20:40:48 2013/-ko/TOPENBSD_5_6
+D/devel////
+D/parts////
+D/t////
